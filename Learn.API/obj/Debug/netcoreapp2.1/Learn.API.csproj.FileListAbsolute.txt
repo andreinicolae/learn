@@ -1,0 +1,14 @@
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\bin\Debug\netcoreapp2.1\Learn.API.deps.json
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\bin\Debug\netcoreapp2.1\Learn.API.runtimeconfig.json
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\bin\Debug\netcoreapp2.1\Learn.API.runtimeconfig.dev.json
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\bin\Debug\netcoreapp2.1\Learn.API.dll
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\bin\Debug\netcoreapp2.1\Learn.API.pdb
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.csprojAssemblyReference.cache
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.csproj.CoreCompileInputs.cache
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.RazorAssemblyInfo.cache
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.RazorAssemblyInfo.cs
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.AssemblyInfoInputs.cache
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.AssemblyInfo.cs
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.RazorTargetAssemblyInfo.cache
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.dll
+C:\Users\a.p.nicolae\Documents\learn\Learn.API\obj\Debug\netcoreapp2.1\Learn.API.pdb
